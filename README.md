@@ -19,7 +19,7 @@ Multiple: y = a + b1 x1 + b2 x2 + ...
 Models are trained on the training set and evaluated on the test set.
 
 ---
-##Polynimial Regression
+##Polynimial Regression  
 Polynomial regression extends linear regression by including higher-degree terms:
 
 y = a + b1 x + b2 x^2 + ... + bn x^n
