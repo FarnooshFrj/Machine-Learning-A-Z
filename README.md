@@ -14,7 +14,7 @@ This section covers essential **data preprocessing** steps, including:
 ##Linear Regression  
 
 This section includes both **simple linear regression** and **multiple linear regression**:  
-Simple: y = a + b x
+Simple: y = a + b x  
 Multiple: y = a + b1 x1 + b2 x2 + ...  
 Models are trained on the training set and evaluated on the test set.
 
