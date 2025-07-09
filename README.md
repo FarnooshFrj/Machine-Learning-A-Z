@@ -32,4 +32,6 @@ This repository contains my personal practice code and notes based on the Udemy 
 
 [Machine Learning A-Z: AI, Python & R + ChatGPT Prize]([https://www.udemy.com/course/course-name/](https://www.udemy.com/course/machinelearning/?couponCode=LETSLEARNNOW)) 
 
+[Google](https://www.google.com)
+
 All course materials belong to the original instructor. This repository is for educational purposes only.
