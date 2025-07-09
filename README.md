@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine Learning
 Basic ML models implementations
 
 ---
