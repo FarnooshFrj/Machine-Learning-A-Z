@@ -30,7 +30,6 @@ In this section, the model is trained on the entire dataset, and used to predict
 
 This repository contains my personal practice code and notes based on the Udemy course:
 
-[Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]
-]([https://www.udemy.com/course/course-name/](https://www.udemy.com/course/machinelearning/?couponCode=LETSLEARNNOW)) 
+[Machine Learning A-Z: AI, Python & R + ChatGPT Prize]([https://www.udemy.com/course/course-name/](https://www.udemy.com/course/machinelearning/?couponCode=LETSLEARNNOW)) 
 
 All course materials belong to the original instructor. This repository is for educational purposes only.
