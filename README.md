@@ -30,9 +30,6 @@ In this section, the model is trained on the entire dataset, and used to predict
 
 This repository contains my personal practice code and notes based on the Udemy course:
 
-[Machine Learning Udemy Course](https://www.udemy.com/course/machinelearning/?couponCode=LETSLEARNNOW)
-
-
-[Google](https://www.google.com)
+[Machine Learning A-Z](https://www.udemy.com/course/machinelearning/?couponCode=LETSLEARNNOW)
 
 All course materials belong to the original instructor. This repository is for educational purposes only.
